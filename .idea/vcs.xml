@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro-weather-config-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro-weather-config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro-weather-eureka-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro-weather-eureka-client-feign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro-weather-eureka-client-zuul" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro-weather-eureka-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-city-eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-city-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-collection-eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-collection-eureka-feign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-collection-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-data-eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-data-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-eureka-client-zuul" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-report-eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-report-eureka-feign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msa-weather-report-server" vcs="Git" />
+  </component>
+</project>
